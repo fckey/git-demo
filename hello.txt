@@ -5,8 +5,7 @@ hot-fix , hello text
 public test{
   public void static main(String[] args){
     System.out.println("test");
-	System.out.println("fagnshaoleitest02 write some code in this")
-		system.our.pprintln(:test laoliu:)
+    不是我说，在做的各位都是垃圾
 	}
 
 }
