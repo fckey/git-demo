@@ -2,3 +2,5 @@ hello, fangshaolei
 <<<<<<< HEAD
 hello, fangshaodi
 hot-fix , hello text
+
+这是我本地的一个代码
