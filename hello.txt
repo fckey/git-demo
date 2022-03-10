@@ -1,3 +1,4 @@
 hello, fangshaolei
+<<<<<<< HEAD
 hello, fangshaodi
-hello ,master, 
+hot-fix , hello text
