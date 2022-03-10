@@ -5,7 +5,8 @@ hot-fix , hello text
 public test{
   public void static main(String[] args){
     System.out.println("test");
-  }
+	System.out.println("fagnshaoleitest02 write some code in this")
+	}
 
 }
 
