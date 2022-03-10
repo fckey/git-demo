@@ -6,6 +6,8 @@ public test{
   public void static main(String[] args){
     System.out.println("test");
     不是我说，在做的各位都是垃圾
+    
+    我老六才是天下无敌
 	}
 
 }
